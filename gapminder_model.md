@@ -3,6 +3,9 @@ gapminder
 Buyoun Lim
 10/17/2017
 
+Reference : R for Data Science - Hadley Wickham
+-----------------------------------------------
+
 ``` r
 library(tidyverse)
 ```
@@ -46,9 +49,6 @@ head(gapminder)
     ## 4 Afghanistan      Asia  1967  34.020 11537966  836.1971
     ## 5 Afghanistan      Asia  1972  36.088 13079460  739.9811
     ## 6 Afghanistan      Asia  1977  38.438 14880372  786.1134
-
-Reference : R for Data Science - Hadley Wickham
------------------------------------------------
 
 각 나라마다(country) 시간이 지날수록(year) 평균수명(lifeExp)이 어떻게 변하는가?
 -------------------------------------------------------------------------------
